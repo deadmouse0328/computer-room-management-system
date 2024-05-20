@@ -1,0 +1,13 @@
+# ninja log v5
+16	1288	1709185210930497505	CMakeFiles/machine_room_reservation_system.dir/orderFile.cpp.o	18d46b3f1d9d1243
+17	1691	1709186933945658796	CMakeFiles/machine_room_reservation_system.dir/manager.cpp.o	3639749ce0aa3c5a
+1691	1806	1709186934063826406	machine_room_reservation_system	ffdfd63754b4e237
+17	1595	1709186933844395673	CMakeFiles/machine_room_reservation_system.dir/teacher.cpp.o	c76f832c980abf4b
+16	1331	1709185210976778196	CMakeFiles/machine_room_reservation_system.dir/student.cpp.o	cc4e302b36d0cfcf
+16	1486	1709186933734705320	CMakeFiles/machine_room_reservation_system.dir/main.cpp.o	1d7fb211b656e0cd
+16	1331	1709187603005604230	CMakeFiles/machine_room_reservation_system.dir/main.cpp.o	1d7fb211b656e0cd
+16	1461	1709187603140147429	CMakeFiles/machine_room_reservation_system.dir/teacher.cpp.o	c76f832c980abf4b
+17	1487	1709187603167760209	CMakeFiles/machine_room_reservation_system.dir/manager.cpp.o	3639749ce0aa3c5a
+1487	1600	1709187603285043709	machine_room_reservation_system	ffdfd63754b4e237
+15	1296	1709188206171635292	CMakeFiles/machine_room_reservation_system.dir/teacher.cpp.o	c76f832c980abf4b
+1296	1400	1709188206281307926	machine_room_reservation_system	ffdfd63754b4e237

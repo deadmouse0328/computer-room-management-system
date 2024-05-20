@@ -1,0 +1,3 @@
+/Users/ren/Desktop/C++/forFun/machine_room_reservation_system/cmake-build-debug/CMakeFiles/machine_room_reservation_system.dir
+/Users/ren/Desktop/C++/forFun/machine_room_reservation_system/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ren/Desktop/C++/forFun/machine_room_reservation_system/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,10 @@
+#ifndef MACHINE_ROOM_RESERVATION_SYSTEM_GLOBALFILE_H
+#define MACHINE_ROOM_RESERVATION_SYSTEM_GLOBALFILE_H
+
+#define ADMIN_FILE "admin.txt"
+#define STUDENT_FILE "student.txt"
+#define TEACHER_FILE "teacher.txt"
+#define COMPUTER_FILE "computerRoom.txt"
+#define ORDER_FILE "order.txt"
+
+#endif //MACHINE_ROOM_RESERVATION_SYSTEM_GLOBALFILE_H
